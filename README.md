@@ -1,5 +1,7 @@
 # es6-runcode
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cloudyan/es6-runcode.svg)](https://greenkeeper.io/)
+
 迁移到 [debugging/runcode](https://github.com/deepjs-net/debugging/tree/master/packages/runcode)
 
 vscode 右键 RunCode 直接运行 es6
