@@ -1,5 +1,7 @@
 # es6-runcode
 
+迁移到 [debugging/runcode](https://github.com/deepjs-net/debugging/tree/master/packages/runcode)
+
 vscode 右键 RunCode 直接运行 es6
 
 ```conf
